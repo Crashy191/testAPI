@@ -9,7 +9,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "src/index.js"
+      "dest": "src/views/$1.hbs"
     }
   ]
 }
